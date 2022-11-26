@@ -9,3 +9,5 @@
 ## Branch merging
 
 ## Conflicts
+
+проверка слияния
